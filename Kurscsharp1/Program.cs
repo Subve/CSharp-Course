@@ -10,7 +10,9 @@ namespace Kurscsharp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world");
+            int zmienna = int.MaxValue;
+            string zmienna2 = "Hello world";
+            Console.WriteLine(zmienna);
             Console.ReadKey();
         }
     }
