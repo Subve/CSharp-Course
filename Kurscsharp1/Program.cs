@@ -14,6 +14,7 @@ namespace Kurscsharp1
             string zmienna2 = "Hello world";
             Console.WriteLine(zmienna);
             Console.ReadKey();
+            
         }
     }
 }
